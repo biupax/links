@@ -8,3 +8,5 @@ vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1019?encryption=none&s
 vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:10010?encryption=none&security=none&type=ws&host=myket.ir&path=%2F#Biulink%20%7C%20008
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkJpdWxpbmsgfCAwMDkiLA0KICAiYWRkIjogIjIxMy4xNzYuMS40OCIsDQogICJwb3J0IjogIjEwMDQiLA0KICAiaWQiOiAiNTJjYzRjYjAtZjkyMy00OTY1LTk2MTUtNjM4MGIwNGMzZjRmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJodHRwIiwNCiAgImhvc3QiOiAibXlrZXQuaXIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCINCn0=
 vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1027?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#Biulink%20%7C%20010
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.uk.flicknet.ir:10464?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online#Biulink%20%7C%20011
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.fia.fx2hub.ir:28643?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#Biulink%20%7C%20012

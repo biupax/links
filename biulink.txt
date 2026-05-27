@@ -1,4 +1,4 @@
-#profile-title: BIULINK
+#profile-title: BIULINK | by BIUPAX with ❤️
 #profile-update-interval: 5
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 

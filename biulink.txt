@@ -1,3 +1,7 @@
+#profile-title: BIULINK
+#profile-update-interval: 5
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+
 vless://4839e195-140c-4416-a43f-c7ec12a0553d@104.16.80.73:2052?encryption=none&security=none&type=httpupgrade&host=vpnxvpn.naicoacademy.ir&path=%2Fapi#AZAD%20%7C%20001
 vless://aeec50e6-f176-4f87-9f46-0610a0e76435@104.19.208.184:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=%2FRoBeRt#AZAD%20%7C%20002
 vless://5d516654-bc44-4a09-b849-c7fd18eb2597@104.21.69.166:443?encryption=none&security=tls&sni=s32.aminzing.lol&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=s32.aminzing.lol&path=%2FlsDH2qujZ0YMHphrPaZGOjsL#AZAD%20%7C%20003
